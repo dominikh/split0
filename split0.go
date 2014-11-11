@@ -1,4 +1,4 @@
-package main
+package main // import "honnef.co/go/split0"
 
 import (
 	"bytes"
